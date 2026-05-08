@@ -1,2 +1,1 @@
-Teste Técnico Java - Outforce
-Kelvin Schneider.
+Teste Técnico Java - Outforce | Kelvin Schneider.
